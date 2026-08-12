@@ -10,7 +10,7 @@ Long projects require decision making constantly. Those decisions impact directl
 
 ## Options that were considered
 
-- **Record changes in ADRs:** Records useful things like context, tradeoffs and alternatives related to decision making that impacts the code architecture.
+- **Record changes in ADRs:** Records useful things related to like context, tradeoffs and alternatives related to decision making that impacts the code architecture.
 - **Rely solely on memory:** Prone to error, memory has a limited context.
 
 ## Decision
